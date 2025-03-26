@@ -10,7 +10,8 @@ const projects = [
     techStack: ["React", "Cypress", "Axios"],
     githubUrl: "https://github.com/ahmetkvs/wit-s8-challenge-pizza-project",
     deployUrl: "https://pizza-project-sigma.vercel.app/",
-    image: "/images/pizza-app.png",
+    image:
+      "https://res.cloudinary.com/dotjbmwdl/image/upload/v1742970005/pizza-project-fullscreen.png",
   },
 ];
 
