@@ -9,8 +9,10 @@ const projects = [
   {
     id: 1,
     name: "Pizza Project",
-    description:
+    descriptionEn:
       "A pizza ordering application created as a challenge project to practice and showcase skills in building interactive user interfaces with React, managing component state, and applying responsive design principles.",
+    descriptionTr:
+      "React ile state management, interaktif kullanıcı arayüzü, routing, vb. konuları çalışmak için geliştirdiğim, bir yemek sipariş uygulaması arayüzü.",
     techStack: ["React", "Cypress", "Axios"],
     githubUrl: "https://github.com/ahmetkvs/wit-s8-challenge-pizza-project",
     deployUrl: "https://pizza-project-sigma.vercel.app/",
@@ -20,8 +22,10 @@ const projects = [
   {
     id: 2,
     name: "tikit",
-    description:
+    descriptionEn:
       "This project is a fundamental task management application created to solidify my understanding and implementation of React Hook Form for form handling and state management in React.",
+    descriptionTr:
+      "Bu proje React Hook Form ile form validasyon, form state management bilgilerimi pratiğe dökmek için geliştirdiğim bir görev takip uygulaması.",
     techStack: ["React", "ReactHookForm", "ES6+"],
     githubUrl: "https://github.com/ahmetkvs/tikit",
     deployUrl: "https://tikit-beta.vercel.app/",
