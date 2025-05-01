@@ -41,7 +41,7 @@ const projects = [
       "Workintech'teki Frontend Bootcamp'imin bitirme projesi olarak geliştirdiğim bu e-ticaret platformu, modern bir React teknoloji yelpazesini pratik olarak uygulama fırsatı sundu. Bu yoğun ve uygulamalı deneyim, gerçek dünya ölçeğinde bir uygulama geliştirmenin karmaşıklıklarını anlamam ve her geliştirme aşamasında becerilerimi öğrenip iyileştirmem açısından kritik öneme sahipti. Bu projeye dönüp baktığımda, kaydettiğim önemli öğrenme sürecini görüyor ve ek zaman ve deneyimle çok daha iyi bir hale getirme potansiyelini hayal edebiliyorum.",
     techStack: ["Redux", "Redux-Thunk", "React"],
     githubUrl: "https://github.com/ahmetkvs/webwares",
-    deployUrl: "https://https://webwares.vercel.app/",
+    deployUrl: "https://webwares.vercel.app/",
     image:
       "https://res.cloudinary.com/dotjbmwdl/image/upload/v1746083247/D4AADD94-5E77-4C80-AA2F-1A3248B37647_ighqcq.png",
   },
